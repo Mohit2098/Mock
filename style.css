@@ -1,0 +1,61 @@
+.content .one{
+    position: absolute;
+    bottom: 40px;
+    text-align: center;
+    width: 100px;
+}
+.content .two{
+    position: absolute;
+    bottom: 40px;
+    text-align: center;
+    width: 100px;
+    right: 161px;
+}
+.main-cl{
+    position: relative;
+}
+
+.title-cl{
+    z-index: 1;
+    position: absolute;
+
+}
+img .third-image{
+    position: relative;
+}
+.one{
+    position: absolute;
+    top: 24%;
+    left: 50px;
+}
+.two{
+    position: absolute;
+    top: 24%;
+    right: 165px;
+}
+.sec-content{
+    position: absolute;
+    z-index: 1;
+    text-align: end;
+    width: 30%;
+}
+.title-img{
+position: relative;
+}
+.last-two-images{
+    position: relative;
+
+}
+.last-content-text-1{
+    
+    position: absolute;
+    left: 50px;
+    top: 180px;
+
+}
+.last-content-text-2{
+    position: absolute;
+    left: 50px;
+    bottom: 50px
+
+}
